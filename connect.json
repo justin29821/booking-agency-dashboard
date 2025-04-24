@@ -1,7 +1,7 @@
 {
-  "key": "modern-booking-dashboard",
-  "name": "Booking Dashboard",
-  "baseUrl": "https://justin29821.github.io/modern-booking-app",
+  "key": "booking-agency-dashboard",
+  "name": "Booking Agency Dashboard",
+  "baseUrl": "https://justin29821.github.io/booking-agency-dashboard",
   "authentication": {
     "type": "none"
   },
@@ -13,8 +13,7 @@
         "name": {
           "value": "🎟️ Booking Dashboard"
         },
-        "url": "/index.html",
-        "conditions": []
+        "url": "/index.html"
       }
     ]
   }
