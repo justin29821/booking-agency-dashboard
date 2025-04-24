@@ -1,0 +1,22 @@
+{
+  "key": "booking-agency-dashboard",
+  "name": "Booking Dashboard",
+  "baseUrl": "https://justin29821.github.io/booking-agency-dashboard",
+  "authentication": {
+    "type": "none"
+  },
+  "modules": {
+    "jiraIssuePanel": [
+      {
+        "key": "booking-panel",
+        "name": {
+          "value": "🎟️ Booking Info"
+        },
+        "url": "/index.html",
+        "location": "jira.issue.contents",
+        "weight": 100,
+        "height": "auto"
+      }
+    ]
+  }
+}
