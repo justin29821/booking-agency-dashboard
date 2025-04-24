@@ -1,21 +1,20 @@
 {
   "key": "modern-booking-dashboard",
   "name": "Booking Dashboard",
-  "baseUrl": "https://yourusername.github.io/modern-booking-app",
+  "baseUrl": "https://justin29821.github.io/modern-booking-app",
   "authentication": {
     "type": "none"
   },
   "modules": {
-    "jiraIssuePanel": [
+    "generalPages": [
       {
-        "key": "booking-panel",
+        "key": "booking-dashboard",
+        "location": "system.top.navigation.bar",
         "name": {
           "value": "🎟️ Booking Dashboard"
         },
         "url": "/index.html",
-        "location": "jira.issue.contents",
-        "weight": 100,
-        "height": "auto"
+        "conditions": []
       }
     ]
   }
