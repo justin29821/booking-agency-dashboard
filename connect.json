@@ -1,7 +1,7 @@
 {
-  "key": "booking-agency-dashboard",
+  "key": "modern-booking-dashboard",
   "name": "Booking Dashboard",
-  "baseUrl": "https://justin29821.github.io/booking-agency-dashboard",
+  "baseUrl": "https://yourusername.github.io/modern-booking-app",
   "authentication": {
     "type": "none"
   },
@@ -10,7 +10,7 @@
       {
         "key": "booking-panel",
         "name": {
-          "value": "🎟️ Booking Info"
+          "value": "🎟️ Booking Dashboard"
         },
         "url": "/index.html",
         "location": "jira.issue.contents",
